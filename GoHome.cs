@@ -17,6 +17,16 @@ public class GoHome : MonoBehaviour
         if(Input.GetMouseButtonDown(0))
         {
             SceneManager.LoadScene();
+
+
+
+
+
+
+
+
+
+
         }
     }
 }
